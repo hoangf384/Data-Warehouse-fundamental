@@ -1,0 +1,1001 @@
+CustomerID,CustomerName,Gender,DateOfBirth,City,Country
+1,Customer_1,Male,1979-06-23,New York,USA
+2,Customer_2,Male,1983-07-03,Los Angeles,USA
+3,Customer_3,Male,1970-04-28,Chicago,USA
+4,Customer_4,Male,1977-04-16,New York,USA
+5,Customer_5,Male,1975-10-08,Chicago,USA
+6,Customer_6,Female,1969-02-11,Los Angeles,USA
+7,Customer_7,Male,1991-10-24,Los Angeles,USA
+8,Customer_8,Male,1984-11-07,Los Angeles,USA
+9,Customer_9,Female,1973-09-23,Los Angeles,USA
+10,Customer_10,Female,1998-03-14,Los Angeles,USA
+11,Customer_11,Female,1990-12-09,Chicago,USA
+12,Customer_12,Female,1992-09-12,New York,USA
+13,Customer_13,Male,1985-04-03,New York,USA
+14,Customer_14,Male,2000-10-28,Houston,USA
+15,Customer_15,Male,1979-03-21,New York,USA
+16,Customer_16,Female,1978-03-26,Phoenix,USA
+17,Customer_17,Female,1979-12-03,Chicago,USA
+18,Customer_18,Female,1979-10-03,Chicago,USA
+19,Customer_19,Male,1991-07-27,Phoenix,USA
+20,Customer_20,Female,1991-09-28,Chicago,USA
+21,Customer_21,Male,1987-07-21,Chicago,USA
+22,Customer_22,Female,1987-09-27,Los Angeles,USA
+23,Customer_23,Female,1991-12-09,Phoenix,USA
+24,Customer_24,Female,1963-02-17,Chicago,USA
+25,Customer_25,Female,1986-05-13,Los Angeles,USA
+26,Customer_26,Female,1962-12-05,Los Angeles,USA
+27,Customer_27,Male,1992-06-27,New York,USA
+28,Customer_28,Male,1982-09-23,Chicago,USA
+29,Customer_29,Male,1993-12-08,Phoenix,USA
+30,Customer_30,Female,1962-11-19,Chicago,USA
+31,Customer_31,Female,1973-06-24,Houston,USA
+32,Customer_32,Female,1973-05-05,New York,USA
+33,Customer_33,Female,1970-07-19,New York,USA
+34,Customer_34,Male,1981-02-12,Chicago,USA
+35,Customer_35,Female,1978-06-18,Chicago,USA
+36,Customer_36,Male,1979-12-02,Chicago,USA
+37,Customer_37,Female,1982-09-20,Los Angeles,USA
+38,Customer_38,Female,1969-04-20,Phoenix,USA
+39,Customer_39,Male,1995-06-28,Los Angeles,USA
+40,Customer_40,Male,2000-06-25,Chicago,USA
+41,Customer_41,Male,1979-11-20,Chicago,USA
+42,Customer_42,Male,1966-06-23,Houston,USA
+43,Customer_43,Male,1999-11-17,Phoenix,USA
+44,Customer_44,Female,1993-08-10,Phoenix,USA
+45,Customer_45,Male,1967-01-04,Houston,USA
+46,Customer_46,Male,1974-02-07,Los Angeles,USA
+47,Customer_47,Female,1994-01-07,Chicago,USA
+48,Customer_48,Male,1968-03-26,Houston,USA
+49,Customer_49,Female,1989-05-19,Los Angeles,USA
+50,Customer_50,Female,1982-03-17,Los Angeles,USA
+51,Customer_51,Male,1980-10-23,Houston,USA
+52,Customer_52,Female,1963-07-15,New York,USA
+53,Customer_53,Male,1983-10-17,Phoenix,USA
+54,Customer_54,Male,1971-02-20,Los Angeles,USA
+55,Customer_55,Female,1995-11-24,Houston,USA
+56,Customer_56,Female,1962-01-05,Los Angeles,USA
+57,Customer_57,Male,1972-11-04,Chicago,USA
+58,Customer_58,Male,1998-12-20,Houston,USA
+59,Customer_59,Male,1992-12-02,New York,USA
+60,Customer_60,Male,1976-11-13,New York,USA
+61,Customer_61,Female,1975-09-01,Phoenix,USA
+62,Customer_62,Female,1977-04-14,Chicago,USA
+63,Customer_63,Female,1978-05-19,New York,USA
+64,Customer_64,Female,1985-06-28,New York,USA
+65,Customer_65,Female,1994-01-27,Phoenix,USA
+66,Customer_66,Female,1981-08-14,Los Angeles,USA
+67,Customer_67,Male,1965-05-22,Phoenix,USA
+68,Customer_68,Male,1985-12-13,Los Angeles,USA
+69,Customer_69,Male,1992-09-10,Phoenix,USA
+70,Customer_70,Female,1990-08-04,Houston,USA
+71,Customer_71,Male,1997-08-07,Phoenix,USA
+72,Customer_72,Female,1995-12-06,Los Angeles,USA
+73,Customer_73,Female,1987-09-26,Phoenix,USA
+74,Customer_74,Male,1979-03-17,Phoenix,USA
+75,Customer_75,Male,1970-08-15,Chicago,USA
+76,Customer_76,Female,1985-06-04,Houston,USA
+77,Customer_77,Male,1962-06-19,Houston,USA
+78,Customer_78,Female,1999-10-13,Chicago,USA
+79,Customer_79,Female,1992-08-07,Phoenix,USA
+80,Customer_80,Female,1985-09-13,Chicago,USA
+81,Customer_81,Male,1980-03-16,New York,USA
+82,Customer_82,Female,1986-02-24,Phoenix,USA
+83,Customer_83,Female,1967-08-28,New York,USA
+84,Customer_84,Female,1962-12-17,Phoenix,USA
+85,Customer_85,Male,1977-07-28,Houston,USA
+86,Customer_86,Male,1995-10-05,Houston,USA
+87,Customer_87,Female,1961-01-21,Houston,USA
+88,Customer_88,Male,2000-07-25,Chicago,USA
+89,Customer_89,Male,1992-08-18,New York,USA
+90,Customer_90,Female,1984-05-14,Chicago,USA
+91,Customer_91,Female,1981-08-08,Los Angeles,USA
+92,Customer_92,Female,1966-02-12,New York,USA
+93,Customer_93,Male,1966-09-26,Phoenix,USA
+94,Customer_94,Male,1965-03-11,Chicago,USA
+95,Customer_95,Male,1983-01-01,Houston,USA
+96,Customer_96,Female,1996-06-04,Los Angeles,USA
+97,Customer_97,Female,1998-06-05,Chicago,USA
+98,Customer_98,Female,1980-08-25,New York,USA
+99,Customer_99,Female,1967-06-10,New York,USA
+100,Customer_100,Female,1990-07-25,Phoenix,USA
+101,Customer_101,Female,1997-08-08,Chicago,USA
+102,Customer_102,Female,1998-05-09,Chicago,USA
+103,Customer_103,Female,1999-12-19,Los Angeles,USA
+104,Customer_104,Male,1965-04-20,Los Angeles,USA
+105,Customer_105,Female,1990-09-03,Los Angeles,USA
+106,Customer_106,Male,1974-08-05,New York,USA
+107,Customer_107,Male,1990-05-07,Houston,USA
+108,Customer_108,Male,1960-12-20,Chicago,USA
+109,Customer_109,Female,1967-07-01,New York,USA
+110,Customer_110,Male,1971-03-08,Houston,USA
+111,Customer_111,Male,1982-02-19,Phoenix,USA
+112,Customer_112,Female,1961-05-11,Phoenix,USA
+113,Customer_113,Female,1976-04-14,Chicago,USA
+114,Customer_114,Female,1988-06-13,Phoenix,USA
+115,Customer_115,Male,1986-09-14,Houston,USA
+116,Customer_116,Female,1972-04-28,Houston,USA
+117,Customer_117,Female,1966-09-16,Los Angeles,USA
+118,Customer_118,Female,1967-09-04,Phoenix,USA
+119,Customer_119,Male,1980-11-01,Chicago,USA
+120,Customer_120,Female,1986-07-17,Chicago,USA
+121,Customer_121,Female,1960-08-18,Houston,USA
+122,Customer_122,Male,1967-03-18,Phoenix,USA
+123,Customer_123,Female,1974-11-04,Chicago,USA
+124,Customer_124,Male,1984-05-08,Phoenix,USA
+125,Customer_125,Male,1984-05-17,Chicago,USA
+126,Customer_126,Female,1968-07-01,Phoenix,USA
+127,Customer_127,Female,1974-09-09,Houston,USA
+128,Customer_128,Female,1986-05-04,Houston,USA
+129,Customer_129,Male,1995-11-12,Phoenix,USA
+130,Customer_130,Female,1964-01-02,New York,USA
+131,Customer_131,Male,1978-07-28,New York,USA
+132,Customer_132,Male,1995-08-15,Houston,USA
+133,Customer_133,Male,1970-06-09,New York,USA
+134,Customer_134,Female,1977-03-03,Los Angeles,USA
+135,Customer_135,Male,1964-08-23,Los Angeles,USA
+136,Customer_136,Male,1985-12-11,Houston,USA
+137,Customer_137,Female,1967-10-08,Phoenix,USA
+138,Customer_138,Male,1960-11-20,Chicago,USA
+139,Customer_139,Male,1974-12-03,Chicago,USA
+140,Customer_140,Male,1962-08-23,Los Angeles,USA
+141,Customer_141,Female,1966-11-02,Phoenix,USA
+142,Customer_142,Female,1972-02-13,Phoenix,USA
+143,Customer_143,Female,1962-09-19,New York,USA
+144,Customer_144,Male,1991-07-09,Los Angeles,USA
+145,Customer_145,Female,1977-01-12,Los Angeles,USA
+146,Customer_146,Female,1986-06-13,Houston,USA
+147,Customer_147,Male,1993-12-14,Los Angeles,USA
+148,Customer_148,Female,1977-07-20,New York,USA
+149,Customer_149,Male,1977-10-01,Houston,USA
+150,Customer_150,Male,1980-07-04,Houston,USA
+151,Customer_151,Male,1989-01-08,Chicago,USA
+152,Customer_152,Female,1996-05-27,Los Angeles,USA
+153,Customer_153,Male,1989-04-20,Los Angeles,USA
+154,Customer_154,Female,1973-12-05,New York,USA
+155,Customer_155,Male,1993-11-16,Phoenix,USA
+156,Customer_156,Male,1964-11-22,Phoenix,USA
+157,Customer_157,Female,1973-11-25,Los Angeles,USA
+158,Customer_158,Female,1981-10-04,Chicago,USA
+159,Customer_159,Male,1994-02-21,New York,USA
+160,Customer_160,Male,1961-08-16,Phoenix,USA
+161,Customer_161,Female,1979-04-25,New York,USA
+162,Customer_162,Male,1996-07-28,Chicago,USA
+163,Customer_163,Female,2000-11-28,Houston,USA
+164,Customer_164,Female,1974-12-25,New York,USA
+165,Customer_165,Female,1989-11-01,Chicago,USA
+166,Customer_166,Male,1972-07-23,Chicago,USA
+167,Customer_167,Male,1982-03-18,New York,USA
+168,Customer_168,Male,1977-02-18,Phoenix,USA
+169,Customer_169,Male,1981-11-17,New York,USA
+170,Customer_170,Female,1977-10-03,Phoenix,USA
+171,Customer_171,Male,1966-12-07,Chicago,USA
+172,Customer_172,Female,1991-02-11,Houston,USA
+173,Customer_173,Male,1978-03-28,New York,USA
+174,Customer_174,Male,1969-08-15,Chicago,USA
+175,Customer_175,Female,1987-08-01,Los Angeles,USA
+176,Customer_176,Male,1984-03-12,Chicago,USA
+177,Customer_177,Male,1986-04-06,New York,USA
+178,Customer_178,Male,1998-03-17,Chicago,USA
+179,Customer_179,Female,1961-09-10,Phoenix,USA
+180,Customer_180,Female,1976-04-22,New York,USA
+181,Customer_181,Female,1965-03-20,New York,USA
+182,Customer_182,Female,1984-09-12,New York,USA
+183,Customer_183,Female,1986-05-11,Houston,USA
+184,Customer_184,Female,1996-04-06,Chicago,USA
+185,Customer_185,Female,1960-07-03,Houston,USA
+186,Customer_186,Female,1988-08-26,Chicago,USA
+187,Customer_187,Male,1990-11-25,Chicago,USA
+188,Customer_188,Female,1968-11-22,Chicago,USA
+189,Customer_189,Female,1977-11-12,Phoenix,USA
+190,Customer_190,Female,1996-09-05,Phoenix,USA
+191,Customer_191,Female,1961-02-21,Los Angeles,USA
+192,Customer_192,Female,1961-09-21,Phoenix,USA
+193,Customer_193,Female,1963-05-28,Houston,USA
+194,Customer_194,Male,1995-03-11,Houston,USA
+195,Customer_195,Male,1989-03-17,Phoenix,USA
+196,Customer_196,Female,1998-01-06,Houston,USA
+197,Customer_197,Female,1988-10-24,Phoenix,USA
+198,Customer_198,Female,1984-02-21,Los Angeles,USA
+199,Customer_199,Female,1968-02-22,Los Angeles,USA
+200,Customer_200,Female,1983-04-10,New York,USA
+201,Customer_201,Female,1992-08-22,Los Angeles,USA
+202,Customer_202,Female,1963-02-26,Los Angeles,USA
+203,Customer_203,Female,1999-07-12,Los Angeles,USA
+204,Customer_204,Male,1964-10-15,Houston,USA
+205,Customer_205,Male,1980-09-24,Los Angeles,USA
+206,Customer_206,Male,1974-10-01,Chicago,USA
+207,Customer_207,Female,1969-11-07,Phoenix,USA
+208,Customer_208,Female,1995-02-01,New York,USA
+209,Customer_209,Female,1990-09-06,Los Angeles,USA
+210,Customer_210,Female,1987-03-15,Phoenix,USA
+211,Customer_211,Male,2000-03-04,Phoenix,USA
+212,Customer_212,Female,1967-01-18,New York,USA
+213,Customer_213,Male,1985-08-04,Los Angeles,USA
+214,Customer_214,Male,1983-03-18,New York,USA
+215,Customer_215,Male,1964-05-08,Phoenix,USA
+216,Customer_216,Female,1981-04-21,New York,USA
+217,Customer_217,Female,1997-06-23,Phoenix,USA
+218,Customer_218,Female,1971-01-20,Los Angeles,USA
+219,Customer_219,Male,1997-03-03,Chicago,USA
+220,Customer_220,Female,1998-02-05,Chicago,USA
+221,Customer_221,Male,1980-05-05,New York,USA
+222,Customer_222,Male,1974-03-06,Houston,USA
+223,Customer_223,Male,1977-03-08,Houston,USA
+224,Customer_224,Male,1983-03-28,Phoenix,USA
+225,Customer_225,Female,1968-11-14,Chicago,USA
+226,Customer_226,Female,1963-12-12,Phoenix,USA
+227,Customer_227,Male,1970-03-11,Phoenix,USA
+228,Customer_228,Male,1989-01-06,Chicago,USA
+229,Customer_229,Female,1968-11-15,Chicago,USA
+230,Customer_230,Male,1992-10-04,Phoenix,USA
+231,Customer_231,Male,1972-01-15,Chicago,USA
+232,Customer_232,Female,1989-05-12,Phoenix,USA
+233,Customer_233,Female,1963-10-28,Houston,USA
+234,Customer_234,Female,1989-07-16,Los Angeles,USA
+235,Customer_235,Male,1980-02-15,Chicago,USA
+236,Customer_236,Female,1964-10-10,Los Angeles,USA
+237,Customer_237,Male,1999-07-14,Houston,USA
+238,Customer_238,Female,1964-11-12,Phoenix,USA
+239,Customer_239,Male,1962-01-08,Chicago,USA
+240,Customer_240,Male,1977-08-05,Houston,USA
+241,Customer_241,Female,1970-10-18,Los Angeles,USA
+242,Customer_242,Female,1960-02-04,Chicago,USA
+243,Customer_243,Male,1972-02-24,Chicago,USA
+244,Customer_244,Male,1968-06-11,Houston,USA
+245,Customer_245,Male,1988-02-04,Los Angeles,USA
+246,Customer_246,Female,1968-09-01,Chicago,USA
+247,Customer_247,Female,1978-03-19,Houston,USA
+248,Customer_248,Male,1978-10-28,Phoenix,USA
+249,Customer_249,Male,1991-02-11,New York,USA
+250,Customer_250,Female,1977-12-16,Houston,USA
+251,Customer_251,Female,1985-10-18,Phoenix,USA
+252,Customer_252,Male,1975-08-23,Chicago,USA
+253,Customer_253,Female,1996-08-01,Chicago,USA
+254,Customer_254,Male,1999-05-13,Chicago,USA
+255,Customer_255,Female,1991-04-14,Houston,USA
+256,Customer_256,Female,1989-03-27,New York,USA
+257,Customer_257,Female,1984-11-27,Phoenix,USA
+258,Customer_258,Male,1983-08-27,Chicago,USA
+259,Customer_259,Male,1985-02-25,Los Angeles,USA
+260,Customer_260,Male,1972-05-16,Chicago,USA
+261,Customer_261,Male,1962-05-13,Houston,USA
+262,Customer_262,Female,1971-04-22,Los Angeles,USA
+263,Customer_263,Male,1969-09-05,Chicago,USA
+264,Customer_264,Male,1995-05-14,Los Angeles,USA
+265,Customer_265,Male,1991-02-22,New York,USA
+266,Customer_266,Male,1993-03-22,New York,USA
+267,Customer_267,Male,1979-11-01,Houston,USA
+268,Customer_268,Female,1971-11-25,New York,USA
+269,Customer_269,Female,1978-02-06,Chicago,USA
+270,Customer_270,Male,1984-07-19,Houston,USA
+271,Customer_271,Male,1991-07-01,Houston,USA
+272,Customer_272,Male,1968-06-25,Phoenix,USA
+273,Customer_273,Male,1999-08-28,Houston,USA
+274,Customer_274,Female,1967-07-07,Los Angeles,USA
+275,Customer_275,Male,1990-08-01,New York,USA
+276,Customer_276,Female,1990-02-06,Houston,USA
+277,Customer_277,Male,1963-07-19,Phoenix,USA
+278,Customer_278,Female,1982-05-07,Los Angeles,USA
+279,Customer_279,Female,1976-05-24,New York,USA
+280,Customer_280,Male,1977-01-01,Los Angeles,USA
+281,Customer_281,Male,1987-02-01,Phoenix,USA
+282,Customer_282,Female,1981-06-14,Chicago,USA
+283,Customer_283,Male,1987-01-25,Chicago,USA
+284,Customer_284,Male,1980-05-14,Los Angeles,USA
+285,Customer_285,Female,1997-04-03,Chicago,USA
+286,Customer_286,Female,1994-08-27,Houston,USA
+287,Customer_287,Female,1978-12-14,Houston,USA
+288,Customer_288,Female,2000-02-18,Houston,USA
+289,Customer_289,Female,1999-03-13,Houston,USA
+290,Customer_290,Male,1970-04-03,New York,USA
+291,Customer_291,Female,1966-07-24,Los Angeles,USA
+292,Customer_292,Male,1987-04-10,Phoenix,USA
+293,Customer_293,Female,1989-06-27,Chicago,USA
+294,Customer_294,Female,1980-01-11,Phoenix,USA
+295,Customer_295,Male,1977-09-28,Los Angeles,USA
+296,Customer_296,Male,1987-08-20,Los Angeles,USA
+297,Customer_297,Male,1990-04-08,Houston,USA
+298,Customer_298,Male,1971-04-16,New York,USA
+299,Customer_299,Male,1974-07-21,Phoenix,USA
+300,Customer_300,Male,1990-12-28,Houston,USA
+301,Customer_301,Male,1988-10-03,Phoenix,USA
+302,Customer_302,Male,1969-06-27,Houston,USA
+303,Customer_303,Female,1967-07-03,Houston,USA
+304,Customer_304,Female,1997-02-08,Houston,USA
+305,Customer_305,Male,2000-11-22,Chicago,USA
+306,Customer_306,Male,1960-12-10,New York,USA
+307,Customer_307,Female,1969-06-17,Chicago,USA
+308,Customer_308,Female,1972-09-10,Houston,USA
+309,Customer_309,Female,1979-05-19,Houston,USA
+310,Customer_310,Female,1979-05-28,Houston,USA
+311,Customer_311,Male,1969-08-10,New York,USA
+312,Customer_312,Female,1992-06-28,Chicago,USA
+313,Customer_313,Female,2000-09-13,Chicago,USA
+314,Customer_314,Male,1971-11-16,Phoenix,USA
+315,Customer_315,Male,1997-06-13,Phoenix,USA
+316,Customer_316,Female,1986-06-12,New York,USA
+317,Customer_317,Female,2000-05-03,Houston,USA
+318,Customer_318,Male,1976-02-20,New York,USA
+319,Customer_319,Male,1986-08-24,New York,USA
+320,Customer_320,Female,1967-06-06,Houston,USA
+321,Customer_321,Male,1983-12-12,Phoenix,USA
+322,Customer_322,Female,1992-01-26,Los Angeles,USA
+323,Customer_323,Male,1994-04-12,Phoenix,USA
+324,Customer_324,Female,1961-02-23,Los Angeles,USA
+325,Customer_325,Male,1967-08-28,Los Angeles,USA
+326,Customer_326,Male,1970-05-24,Los Angeles,USA
+327,Customer_327,Female,1999-05-01,Los Angeles,USA
+328,Customer_328,Male,1986-06-17,Phoenix,USA
+329,Customer_329,Female,1962-03-15,Los Angeles,USA
+330,Customer_330,Female,1999-09-28,Los Angeles,USA
+331,Customer_331,Female,1990-09-18,Chicago,USA
+332,Customer_332,Male,1965-06-01,Chicago,USA
+333,Customer_333,Female,1985-08-01,Chicago,USA
+334,Customer_334,Female,1968-10-21,Chicago,USA
+335,Customer_335,Male,1983-03-07,New York,USA
+336,Customer_336,Female,1965-03-02,Los Angeles,USA
+337,Customer_337,Male,1985-03-10,Los Angeles,USA
+338,Customer_338,Male,1999-04-02,Phoenix,USA
+339,Customer_339,Male,1982-05-01,New York,USA
+340,Customer_340,Female,1991-08-10,Phoenix,USA
+341,Customer_341,Female,1976-05-27,Chicago,USA
+342,Customer_342,Male,1977-07-27,Chicago,USA
+343,Customer_343,Male,1987-05-07,New York,USA
+344,Customer_344,Female,1986-12-25,Houston,USA
+345,Customer_345,Female,1973-05-19,Chicago,USA
+346,Customer_346,Female,1964-08-16,Chicago,USA
+347,Customer_347,Male,1994-06-01,New York,USA
+348,Customer_348,Male,1999-06-18,New York,USA
+349,Customer_349,Female,1967-05-17,Los Angeles,USA
+350,Customer_350,Male,1992-07-25,Phoenix,USA
+351,Customer_351,Male,1962-12-10,New York,USA
+352,Customer_352,Female,1976-01-19,New York,USA
+353,Customer_353,Male,1986-02-03,Houston,USA
+354,Customer_354,Female,2000-12-02,New York,USA
+355,Customer_355,Male,1971-05-13,Phoenix,USA
+356,Customer_356,Male,1986-04-06,Los Angeles,USA
+357,Customer_357,Male,1973-07-04,Houston,USA
+358,Customer_358,Male,1989-11-09,Phoenix,USA
+359,Customer_359,Male,1988-08-03,Los Angeles,USA
+360,Customer_360,Male,1977-04-11,Los Angeles,USA
+361,Customer_361,Female,1985-03-04,Houston,USA
+362,Customer_362,Male,1968-05-25,Houston,USA
+363,Customer_363,Female,1980-05-23,New York,USA
+364,Customer_364,Female,1968-09-13,Houston,USA
+365,Customer_365,Female,1984-08-02,Chicago,USA
+366,Customer_366,Female,1975-09-06,New York,USA
+367,Customer_367,Male,1981-10-15,Phoenix,USA
+368,Customer_368,Female,1975-04-26,Los Angeles,USA
+369,Customer_369,Male,1989-02-23,New York,USA
+370,Customer_370,Female,1991-08-05,Phoenix,USA
+371,Customer_371,Male,1981-02-09,Chicago,USA
+372,Customer_372,Female,1995-03-11,Phoenix,USA
+373,Customer_373,Female,1964-02-23,New York,USA
+374,Customer_374,Female,1999-02-25,Phoenix,USA
+375,Customer_375,Female,1994-04-14,Phoenix,USA
+376,Customer_376,Female,1996-01-12,Houston,USA
+377,Customer_377,Male,1994-03-14,Houston,USA
+378,Customer_378,Female,1989-12-17,Phoenix,USA
+379,Customer_379,Female,1967-08-19,Phoenix,USA
+380,Customer_380,Male,1975-10-04,Chicago,USA
+381,Customer_381,Male,1994-07-26,Houston,USA
+382,Customer_382,Female,1992-01-03,New York,USA
+383,Customer_383,Male,2000-07-05,Los Angeles,USA
+384,Customer_384,Male,1994-08-08,Los Angeles,USA
+385,Customer_385,Male,1988-10-26,New York,USA
+386,Customer_386,Female,1982-03-21,Chicago,USA
+387,Customer_387,Female,2000-02-26,Houston,USA
+388,Customer_388,Male,1990-05-23,Los Angeles,USA
+389,Customer_389,Female,1990-04-19,Houston,USA
+390,Customer_390,Male,1993-04-06,Chicago,USA
+391,Customer_391,Male,1998-08-16,Phoenix,USA
+392,Customer_392,Male,1977-02-20,Chicago,USA
+393,Customer_393,Female,1997-12-18,Phoenix,USA
+394,Customer_394,Female,1984-02-24,New York,USA
+395,Customer_395,Male,1968-02-10,Phoenix,USA
+396,Customer_396,Male,1970-06-21,Los Angeles,USA
+397,Customer_397,Female,1974-07-11,Phoenix,USA
+398,Customer_398,Female,1994-07-04,Chicago,USA
+399,Customer_399,Male,1990-09-14,Phoenix,USA
+400,Customer_400,Male,1995-03-18,Los Angeles,USA
+401,Customer_401,Male,1988-08-16,Los Angeles,USA
+402,Customer_402,Male,1992-06-12,Los Angeles,USA
+403,Customer_403,Male,1992-07-02,Chicago,USA
+404,Customer_404,Female,1976-10-05,Los Angeles,USA
+405,Customer_405,Female,1983-10-25,New York,USA
+406,Customer_406,Male,1999-03-02,Los Angeles,USA
+407,Customer_407,Male,1982-12-28,Los Angeles,USA
+408,Customer_408,Female,1978-08-03,Houston,USA
+409,Customer_409,Male,1972-05-05,New York,USA
+410,Customer_410,Male,1982-06-07,Houston,USA
+411,Customer_411,Male,1964-12-05,Chicago,USA
+412,Customer_412,Female,1964-03-01,Chicago,USA
+413,Customer_413,Female,1997-10-26,New York,USA
+414,Customer_414,Female,1965-09-27,Houston,USA
+415,Customer_415,Female,1992-08-07,Los Angeles,USA
+416,Customer_416,Male,1964-11-05,New York,USA
+417,Customer_417,Male,1970-06-09,New York,USA
+418,Customer_418,Female,1985-06-27,Chicago,USA
+419,Customer_419,Male,1980-04-28,Chicago,USA
+420,Customer_420,Male,1997-08-20,Phoenix,USA
+421,Customer_421,Male,1962-10-28,New York,USA
+422,Customer_422,Male,1981-11-28,Chicago,USA
+423,Customer_423,Female,1963-12-27,Houston,USA
+424,Customer_424,Male,1971-05-05,New York,USA
+425,Customer_425,Male,1986-08-28,Chicago,USA
+426,Customer_426,Female,1962-11-16,Chicago,USA
+427,Customer_427,Male,1960-05-23,New York,USA
+428,Customer_428,Female,2000-09-10,Houston,USA
+429,Customer_429,Male,1969-10-11,Los Angeles,USA
+430,Customer_430,Female,1974-02-16,Phoenix,USA
+431,Customer_431,Male,1997-06-22,Phoenix,USA
+432,Customer_432,Male,1987-02-26,Los Angeles,USA
+433,Customer_433,Female,1970-07-13,Los Angeles,USA
+434,Customer_434,Male,1970-02-19,Houston,USA
+435,Customer_435,Female,1991-04-11,Chicago,USA
+436,Customer_436,Female,1972-04-08,Phoenix,USA
+437,Customer_437,Male,1987-08-24,Houston,USA
+438,Customer_438,Male,1966-05-20,Phoenix,USA
+439,Customer_439,Female,1997-02-16,Houston,USA
+440,Customer_440,Male,1977-06-19,Houston,USA
+441,Customer_441,Female,1993-06-21,New York,USA
+442,Customer_442,Male,1967-09-11,Los Angeles,USA
+443,Customer_443,Female,1978-05-04,Los Angeles,USA
+444,Customer_444,Female,1963-01-20,Chicago,USA
+445,Customer_445,Male,1977-03-16,New York,USA
+446,Customer_446,Female,1969-08-04,Chicago,USA
+447,Customer_447,Male,1962-07-18,New York,USA
+448,Customer_448,Male,1973-05-14,Houston,USA
+449,Customer_449,Female,1971-08-16,New York,USA
+450,Customer_450,Male,1970-11-11,New York,USA
+451,Customer_451,Male,1983-10-23,Houston,USA
+452,Customer_452,Male,1968-07-23,Los Angeles,USA
+453,Customer_453,Female,1965-03-08,Los Angeles,USA
+454,Customer_454,Female,1993-11-17,Chicago,USA
+455,Customer_455,Male,1983-03-08,Chicago,USA
+456,Customer_456,Female,1983-08-21,Phoenix,USA
+457,Customer_457,Male,1987-06-16,Houston,USA
+458,Customer_458,Male,1974-02-06,Los Angeles,USA
+459,Customer_459,Male,1964-12-07,Chicago,USA
+460,Customer_460,Male,1961-04-16,Phoenix,USA
+461,Customer_461,Female,1988-06-24,New York,USA
+462,Customer_462,Female,1975-05-11,Chicago,USA
+463,Customer_463,Female,1982-02-20,Los Angeles,USA
+464,Customer_464,Female,1980-05-24,New York,USA
+465,Customer_465,Male,1969-10-06,Los Angeles,USA
+466,Customer_466,Male,1997-11-19,Phoenix,USA
+467,Customer_467,Female,1962-08-24,Phoenix,USA
+468,Customer_468,Female,1962-08-24,Chicago,USA
+469,Customer_469,Female,1975-12-20,Phoenix,USA
+470,Customer_470,Male,1961-02-20,Chicago,USA
+471,Customer_471,Female,1991-09-22,Houston,USA
+472,Customer_472,Female,1974-07-06,New York,USA
+473,Customer_473,Female,1981-10-15,New York,USA
+474,Customer_474,Female,1980-06-08,Chicago,USA
+475,Customer_475,Female,1979-02-20,New York,USA
+476,Customer_476,Male,1998-11-24,New York,USA
+477,Customer_477,Female,1977-06-05,Los Angeles,USA
+478,Customer_478,Female,1984-02-20,Chicago,USA
+479,Customer_479,Female,1965-02-03,Phoenix,USA
+480,Customer_480,Female,1964-03-15,Phoenix,USA
+481,Customer_481,Male,1960-02-16,Chicago,USA
+482,Customer_482,Female,1970-01-14,Phoenix,USA
+483,Customer_483,Male,1979-10-08,New York,USA
+484,Customer_484,Female,1995-11-18,New York,USA
+485,Customer_485,Female,1972-08-19,Chicago,USA
+486,Customer_486,Male,1968-11-09,Chicago,USA
+487,Customer_487,Female,1995-07-09,Chicago,USA
+488,Customer_488,Female,1960-11-03,Chicago,USA
+489,Customer_489,Female,1988-02-24,New York,USA
+490,Customer_490,Male,1999-05-22,Houston,USA
+491,Customer_491,Male,1990-06-22,New York,USA
+492,Customer_492,Female,1977-03-26,New York,USA
+493,Customer_493,Female,1983-02-15,Houston,USA
+494,Customer_494,Female,1962-07-10,Los Angeles,USA
+495,Customer_495,Female,1978-09-27,Chicago,USA
+496,Customer_496,Female,1987-01-20,New York,USA
+497,Customer_497,Female,1986-11-22,New York,USA
+498,Customer_498,Male,1979-02-13,New York,USA
+499,Customer_499,Male,1996-10-10,New York,USA
+500,Customer_500,Male,1987-08-06,Phoenix,USA
+501,Customer_501,Female,1978-06-10,Phoenix,USA
+502,Customer_502,Female,1978-04-01,Houston,USA
+503,Customer_503,Male,1997-01-03,New York,USA
+504,Customer_504,Male,1963-11-10,Houston,USA
+505,Customer_505,Male,1965-01-04,New York,USA
+506,Customer_506,Female,1978-08-26,Phoenix,USA
+507,Customer_507,Female,1986-06-24,Houston,USA
+508,Customer_508,Male,1971-10-27,Chicago,USA
+509,Customer_509,Male,1980-05-28,New York,USA
+510,Customer_510,Female,1967-07-12,Houston,USA
+511,Customer_511,Female,1966-11-16,New York,USA
+512,Customer_512,Male,1968-11-27,Houston,USA
+513,Customer_513,Male,1961-06-07,New York,USA
+514,Customer_514,Female,1969-10-10,Chicago,USA
+515,Customer_515,Male,1980-12-26,New York,USA
+516,Customer_516,Male,2000-01-12,Los Angeles,USA
+517,Customer_517,Male,1985-01-26,New York,USA
+518,Customer_518,Female,1988-06-03,Los Angeles,USA
+519,Customer_519,Female,1989-04-13,Houston,USA
+520,Customer_520,Female,1972-11-04,Houston,USA
+521,Customer_521,Female,1978-11-05,Chicago,USA
+522,Customer_522,Male,1997-11-15,Houston,USA
+523,Customer_523,Female,1994-01-22,New York,USA
+524,Customer_524,Female,1987-10-18,Chicago,USA
+525,Customer_525,Male,1983-12-08,Los Angeles,USA
+526,Customer_526,Male,1982-05-28,Phoenix,USA
+527,Customer_527,Male,1967-07-21,Los Angeles,USA
+528,Customer_528,Male,1973-01-08,New York,USA
+529,Customer_529,Female,1983-01-14,Houston,USA
+530,Customer_530,Male,1976-10-28,Chicago,USA
+531,Customer_531,Male,1973-12-11,Los Angeles,USA
+532,Customer_532,Female,1993-10-08,Los Angeles,USA
+533,Customer_533,Female,1967-01-06,Chicago,USA
+534,Customer_534,Male,1995-05-20,Chicago,USA
+535,Customer_535,Female,1984-03-24,New York,USA
+536,Customer_536,Male,1990-07-02,New York,USA
+537,Customer_537,Male,1970-12-09,Phoenix,USA
+538,Customer_538,Female,1969-03-02,New York,USA
+539,Customer_539,Female,1997-03-21,Chicago,USA
+540,Customer_540,Female,1977-02-09,New York,USA
+541,Customer_541,Female,1972-09-22,Chicago,USA
+542,Customer_542,Female,1961-10-21,Chicago,USA
+543,Customer_543,Female,1995-03-25,Phoenix,USA
+544,Customer_544,Female,1995-03-23,Los Angeles,USA
+545,Customer_545,Female,1969-02-24,Chicago,USA
+546,Customer_546,Male,1983-03-20,Los Angeles,USA
+547,Customer_547,Female,1974-09-13,Chicago,USA
+548,Customer_548,Female,1967-12-05,Houston,USA
+549,Customer_549,Female,1968-02-04,Los Angeles,USA
+550,Customer_550,Female,1998-11-03,New York,USA
+551,Customer_551,Male,1977-09-25,New York,USA
+552,Customer_552,Male,1965-07-05,New York,USA
+553,Customer_553,Female,1974-04-13,Phoenix,USA
+554,Customer_554,Female,1964-10-08,New York,USA
+555,Customer_555,Male,1999-02-10,New York,USA
+556,Customer_556,Female,1977-12-23,Chicago,USA
+557,Customer_557,Male,1988-05-09,Chicago,USA
+558,Customer_558,Female,1967-02-01,Phoenix,USA
+559,Customer_559,Male,1995-04-02,Phoenix,USA
+560,Customer_560,Female,1989-03-22,Phoenix,USA
+561,Customer_561,Male,1964-10-16,Chicago,USA
+562,Customer_562,Male,1996-02-08,Chicago,USA
+563,Customer_563,Male,1965-01-21,Houston,USA
+564,Customer_564,Female,1989-08-27,Chicago,USA
+565,Customer_565,Female,1972-07-28,New York,USA
+566,Customer_566,Male,1974-01-20,Houston,USA
+567,Customer_567,Male,1981-07-14,Houston,USA
+568,Customer_568,Female,1992-02-11,Houston,USA
+569,Customer_569,Male,1974-09-10,Chicago,USA
+570,Customer_570,Male,1981-09-24,Houston,USA
+571,Customer_571,Male,1985-10-10,Los Angeles,USA
+572,Customer_572,Male,1981-01-02,New York,USA
+573,Customer_573,Female,1993-06-22,Los Angeles,USA
+574,Customer_574,Female,1987-07-26,Phoenix,USA
+575,Customer_575,Female,2000-10-16,Chicago,USA
+576,Customer_576,Female,2000-02-15,Phoenix,USA
+577,Customer_577,Female,1968-03-21,Phoenix,USA
+578,Customer_578,Male,1960-05-16,New York,USA
+579,Customer_579,Male,1972-10-27,Chicago,USA
+580,Customer_580,Male,1964-11-09,Los Angeles,USA
+581,Customer_581,Female,1960-07-23,Chicago,USA
+582,Customer_582,Female,1978-02-25,Houston,USA
+583,Customer_583,Female,1960-01-05,New York,USA
+584,Customer_584,Male,1972-10-21,Phoenix,USA
+585,Customer_585,Male,1984-04-27,Chicago,USA
+586,Customer_586,Male,1977-01-08,Houston,USA
+587,Customer_587,Male,1978-08-13,Los Angeles,USA
+588,Customer_588,Female,1969-11-04,Houston,USA
+589,Customer_589,Male,1962-07-21,Los Angeles,USA
+590,Customer_590,Female,1989-03-02,Phoenix,USA
+591,Customer_591,Male,1972-05-01,Phoenix,USA
+592,Customer_592,Female,1964-05-07,Houston,USA
+593,Customer_593,Male,1987-12-03,Phoenix,USA
+594,Customer_594,Female,1986-03-21,New York,USA
+595,Customer_595,Female,1994-03-10,Chicago,USA
+596,Customer_596,Male,1984-06-28,Houston,USA
+597,Customer_597,Female,1990-04-07,Los Angeles,USA
+598,Customer_598,Male,1968-04-11,Houston,USA
+599,Customer_599,Male,1992-10-14,Phoenix,USA
+600,Customer_600,Female,1989-06-10,Phoenix,USA
+601,Customer_601,Female,1960-02-21,Chicago,USA
+602,Customer_602,Female,1977-04-07,New York,USA
+603,Customer_603,Male,1973-11-09,New York,USA
+604,Customer_604,Male,1997-03-17,New York,USA
+605,Customer_605,Female,2000-11-23,Phoenix,USA
+606,Customer_606,Male,1967-08-15,Los Angeles,USA
+607,Customer_607,Male,1977-12-16,Phoenix,USA
+608,Customer_608,Female,2000-03-15,Houston,USA
+609,Customer_609,Female,1963-11-15,Houston,USA
+610,Customer_610,Female,1995-05-16,Los Angeles,USA
+611,Customer_611,Male,1972-07-10,New York,USA
+612,Customer_612,Male,1966-09-11,Houston,USA
+613,Customer_613,Female,1964-09-06,Phoenix,USA
+614,Customer_614,Male,1985-02-19,New York,USA
+615,Customer_615,Male,1977-05-10,New York,USA
+616,Customer_616,Female,1999-08-27,Los Angeles,USA
+617,Customer_617,Female,1969-01-03,Phoenix,USA
+618,Customer_618,Female,1982-12-07,Houston,USA
+619,Customer_619,Female,1979-03-11,Phoenix,USA
+620,Customer_620,Male,1976-05-19,Houston,USA
+621,Customer_621,Male,1977-08-10,Phoenix,USA
+622,Customer_622,Female,1980-06-15,Phoenix,USA
+623,Customer_623,Female,1960-10-10,Houston,USA
+624,Customer_624,Female,1967-12-07,Los Angeles,USA
+625,Customer_625,Female,1961-03-03,Houston,USA
+626,Customer_626,Female,1976-05-07,Phoenix,USA
+627,Customer_627,Female,1982-07-15,New York,USA
+628,Customer_628,Female,1999-12-28,Los Angeles,USA
+629,Customer_629,Female,1977-12-25,New York,USA
+630,Customer_630,Male,1966-07-07,New York,USA
+631,Customer_631,Male,1998-02-12,Phoenix,USA
+632,Customer_632,Male,1970-08-13,Phoenix,USA
+633,Customer_633,Male,1978-01-16,New York,USA
+634,Customer_634,Male,1978-07-13,New York,USA
+635,Customer_635,Male,1980-11-23,Houston,USA
+636,Customer_636,Female,1969-03-07,Houston,USA
+637,Customer_637,Female,1963-09-13,Chicago,USA
+638,Customer_638,Male,1973-06-07,Chicago,USA
+639,Customer_639,Male,1999-03-23,Chicago,USA
+640,Customer_640,Female,1984-03-02,New York,USA
+641,Customer_641,Male,1982-09-13,Phoenix,USA
+642,Customer_642,Female,1979-12-13,New York,USA
+643,Customer_643,Female,1986-10-25,Chicago,USA
+644,Customer_644,Female,1973-11-25,Chicago,USA
+645,Customer_645,Female,1991-11-23,Chicago,USA
+646,Customer_646,Female,1989-05-26,Los Angeles,USA
+647,Customer_647,Female,1981-09-27,New York,USA
+648,Customer_648,Female,1977-08-23,Chicago,USA
+649,Customer_649,Female,1972-03-20,Chicago,USA
+650,Customer_650,Female,2000-06-16,Houston,USA
+651,Customer_651,Male,1977-03-28,Houston,USA
+652,Customer_652,Female,1989-01-11,Los Angeles,USA
+653,Customer_653,Female,1962-09-28,New York,USA
+654,Customer_654,Female,1996-06-24,Phoenix,USA
+655,Customer_655,Female,1991-02-21,Chicago,USA
+656,Customer_656,Female,1992-12-15,New York,USA
+657,Customer_657,Male,1963-01-02,Phoenix,USA
+658,Customer_658,Male,1993-08-15,Chicago,USA
+659,Customer_659,Female,1986-04-14,Chicago,USA
+660,Customer_660,Female,1988-01-12,Los Angeles,USA
+661,Customer_661,Male,1961-03-11,Houston,USA
+662,Customer_662,Female,1990-03-13,Phoenix,USA
+663,Customer_663,Female,1986-05-24,Houston,USA
+664,Customer_664,Female,1972-05-07,Houston,USA
+665,Customer_665,Male,1968-05-15,Los Angeles,USA
+666,Customer_666,Female,1984-05-24,Houston,USA
+667,Customer_667,Female,1996-10-03,Los Angeles,USA
+668,Customer_668,Male,1966-02-18,Chicago,USA
+669,Customer_669,Male,1976-09-26,Los Angeles,USA
+670,Customer_670,Female,1989-02-21,Houston,USA
+671,Customer_671,Male,1991-04-01,Los Angeles,USA
+672,Customer_672,Male,2000-11-27,Chicago,USA
+673,Customer_673,Female,2000-01-16,New York,USA
+674,Customer_674,Male,1983-01-25,Phoenix,USA
+675,Customer_675,Male,1992-10-07,Los Angeles,USA
+676,Customer_676,Male,1991-09-19,Phoenix,USA
+677,Customer_677,Female,1971-06-12,Houston,USA
+678,Customer_678,Male,1971-01-13,Houston,USA
+679,Customer_679,Female,1981-08-26,Los Angeles,USA
+680,Customer_680,Male,1976-10-08,New York,USA
+681,Customer_681,Male,1977-06-04,Chicago,USA
+682,Customer_682,Male,1999-06-12,Phoenix,USA
+683,Customer_683,Female,1975-11-21,Houston,USA
+684,Customer_684,Male,1962-02-13,Phoenix,USA
+685,Customer_685,Male,1977-03-28,New York,USA
+686,Customer_686,Female,1991-12-18,Chicago,USA
+687,Customer_687,Female,1986-02-09,Houston,USA
+688,Customer_688,Female,1975-11-20,New York,USA
+689,Customer_689,Female,1994-11-09,Houston,USA
+690,Customer_690,Male,1989-02-16,New York,USA
+691,Customer_691,Male,1996-10-14,Houston,USA
+692,Customer_692,Male,1994-09-22,Los Angeles,USA
+693,Customer_693,Female,1999-09-07,Chicago,USA
+694,Customer_694,Male,1981-12-26,Chicago,USA
+695,Customer_695,Female,1991-11-06,Houston,USA
+696,Customer_696,Female,1989-02-12,Houston,USA
+697,Customer_697,Female,1973-06-04,Los Angeles,USA
+698,Customer_698,Female,1967-08-19,Chicago,USA
+699,Customer_699,Female,1979-12-02,Chicago,USA
+700,Customer_700,Male,1978-12-25,Houston,USA
+701,Customer_701,Female,1994-09-17,Los Angeles,USA
+702,Customer_702,Male,1996-03-07,Chicago,USA
+703,Customer_703,Female,1972-05-01,Los Angeles,USA
+704,Customer_704,Female,1992-09-06,New York,USA
+705,Customer_705,Male,1966-09-04,Chicago,USA
+706,Customer_706,Female,1977-12-22,Los Angeles,USA
+707,Customer_707,Female,1981-07-09,Los Angeles,USA
+708,Customer_708,Female,1983-12-05,Chicago,USA
+709,Customer_709,Female,1962-05-03,Chicago,USA
+710,Customer_710,Female,1974-08-18,Houston,USA
+711,Customer_711,Male,1981-05-13,Phoenix,USA
+712,Customer_712,Male,1975-03-08,New York,USA
+713,Customer_713,Male,1967-07-17,Los Angeles,USA
+714,Customer_714,Male,1989-04-06,New York,USA
+715,Customer_715,Male,1975-09-19,Chicago,USA
+716,Customer_716,Female,1965-03-13,Houston,USA
+717,Customer_717,Female,1989-03-27,Chicago,USA
+718,Customer_718,Male,1983-06-19,Phoenix,USA
+719,Customer_719,Female,1988-05-24,Phoenix,USA
+720,Customer_720,Male,1996-09-11,New York,USA
+721,Customer_721,Female,1976-12-26,Los Angeles,USA
+722,Customer_722,Female,1991-09-17,New York,USA
+723,Customer_723,Female,1975-12-25,New York,USA
+724,Customer_724,Female,1993-08-15,Phoenix,USA
+725,Customer_725,Female,1973-04-28,Los Angeles,USA
+726,Customer_726,Female,1987-12-25,Los Angeles,USA
+727,Customer_727,Male,1973-09-13,Chicago,USA
+728,Customer_728,Female,1966-08-06,Chicago,USA
+729,Customer_729,Female,1985-10-16,Houston,USA
+730,Customer_730,Male,1992-08-16,Houston,USA
+731,Customer_731,Male,1980-01-25,New York,USA
+732,Customer_732,Female,1996-08-09,New York,USA
+733,Customer_733,Male,1972-08-28,Phoenix,USA
+734,Customer_734,Male,1970-09-16,Houston,USA
+735,Customer_735,Female,1979-04-09,Chicago,USA
+736,Customer_736,Male,1999-11-24,Phoenix,USA
+737,Customer_737,Male,1997-12-16,Chicago,USA
+738,Customer_738,Female,1966-06-23,Chicago,USA
+739,Customer_739,Female,1968-12-17,Los Angeles,USA
+740,Customer_740,Male,1974-01-28,Los Angeles,USA
+741,Customer_741,Male,1966-10-20,Chicago,USA
+742,Customer_742,Female,1978-06-26,Chicago,USA
+743,Customer_743,Female,1969-09-18,Phoenix,USA
+744,Customer_744,Male,1965-12-10,New York,USA
+745,Customer_745,Female,1999-08-05,Phoenix,USA
+746,Customer_746,Male,1991-09-11,Los Angeles,USA
+747,Customer_747,Male,1993-02-05,Houston,USA
+748,Customer_748,Male,1974-05-13,Phoenix,USA
+749,Customer_749,Female,1995-10-05,Phoenix,USA
+750,Customer_750,Female,1973-08-21,Houston,USA
+751,Customer_751,Female,1964-05-20,New York,USA
+752,Customer_752,Male,1970-10-11,Los Angeles,USA
+753,Customer_753,Female,1984-09-21,Phoenix,USA
+754,Customer_754,Male,1992-04-09,Chicago,USA
+755,Customer_755,Female,1989-02-25,Houston,USA
+756,Customer_756,Male,1994-12-01,Houston,USA
+757,Customer_757,Male,1978-08-19,Houston,USA
+758,Customer_758,Female,1979-10-05,Houston,USA
+759,Customer_759,Female,1987-02-12,Los Angeles,USA
+760,Customer_760,Male,1965-01-14,New York,USA
+761,Customer_761,Female,1965-11-08,Houston,USA
+762,Customer_762,Female,1973-06-08,Los Angeles,USA
+763,Customer_763,Female,1966-07-09,Houston,USA
+764,Customer_764,Male,1983-09-23,Phoenix,USA
+765,Customer_765,Male,2000-02-25,New York,USA
+766,Customer_766,Male,1996-01-04,New York,USA
+767,Customer_767,Female,1990-12-24,New York,USA
+768,Customer_768,Female,1999-08-22,Houston,USA
+769,Customer_769,Male,1969-11-13,New York,USA
+770,Customer_770,Male,1974-10-18,Phoenix,USA
+771,Customer_771,Female,1970-09-19,Chicago,USA
+772,Customer_772,Male,1991-12-03,Los Angeles,USA
+773,Customer_773,Female,1979-09-06,Los Angeles,USA
+774,Customer_774,Male,1965-06-01,Phoenix,USA
+775,Customer_775,Female,2000-02-12,Los Angeles,USA
+776,Customer_776,Male,1970-05-08,Los Angeles,USA
+777,Customer_777,Male,1981-02-09,Los Angeles,USA
+778,Customer_778,Female,1971-04-06,New York,USA
+779,Customer_779,Male,1982-07-22,Los Angeles,USA
+780,Customer_780,Female,1994-11-22,Los Angeles,USA
+781,Customer_781,Female,1988-10-07,Chicago,USA
+782,Customer_782,Male,1979-06-05,Phoenix,USA
+783,Customer_783,Female,1962-07-07,Phoenix,USA
+784,Customer_784,Female,1965-01-03,New York,USA
+785,Customer_785,Female,1964-12-12,Phoenix,USA
+786,Customer_786,Female,1998-02-10,Houston,USA
+787,Customer_787,Female,1977-04-16,Phoenix,USA
+788,Customer_788,Female,1963-12-01,Chicago,USA
+789,Customer_789,Male,2000-03-19,Houston,USA
+790,Customer_790,Male,1974-03-12,Houston,USA
+791,Customer_791,Female,1995-08-09,New York,USA
+792,Customer_792,Female,1981-05-09,Phoenix,USA
+793,Customer_793,Male,1978-06-07,Houston,USA
+794,Customer_794,Male,1979-09-07,Houston,USA
+795,Customer_795,Female,1963-07-12,Houston,USA
+796,Customer_796,Female,1960-05-03,New York,USA
+797,Customer_797,Male,1970-03-13,New York,USA
+798,Customer_798,Male,2000-09-20,Chicago,USA
+799,Customer_799,Male,1971-11-16,Chicago,USA
+800,Customer_800,Female,1988-01-23,New York,USA
+801,Customer_801,Female,1967-09-06,Houston,USA
+802,Customer_802,Female,1989-07-26,Houston,USA
+803,Customer_803,Male,1962-05-15,Houston,USA
+804,Customer_804,Male,1997-04-26,Chicago,USA
+805,Customer_805,Female,1973-04-13,Houston,USA
+806,Customer_806,Female,1991-11-10,Phoenix,USA
+807,Customer_807,Female,1995-01-22,Houston,USA
+808,Customer_808,Male,1980-05-07,Houston,USA
+809,Customer_809,Male,1966-10-17,Phoenix,USA
+810,Customer_810,Female,1979-09-24,Los Angeles,USA
+811,Customer_811,Male,1970-07-16,Houston,USA
+812,Customer_812,Female,1970-07-15,Phoenix,USA
+813,Customer_813,Male,1987-02-28,Chicago,USA
+814,Customer_814,Female,1972-12-14,Los Angeles,USA
+815,Customer_815,Male,1970-02-02,Chicago,USA
+816,Customer_816,Female,1976-06-23,Phoenix,USA
+817,Customer_817,Male,1991-07-12,New York,USA
+818,Customer_818,Male,1999-06-01,Phoenix,USA
+819,Customer_819,Male,1995-01-17,Phoenix,USA
+820,Customer_820,Male,1972-04-18,Los Angeles,USA
+821,Customer_821,Male,1967-09-18,Los Angeles,USA
+822,Customer_822,Male,1976-02-10,Los Angeles,USA
+823,Customer_823,Female,1969-06-15,Chicago,USA
+824,Customer_824,Male,1981-12-11,Chicago,USA
+825,Customer_825,Male,1990-08-07,Los Angeles,USA
+826,Customer_826,Male,1992-04-11,Phoenix,USA
+827,Customer_827,Male,1968-07-26,Los Angeles,USA
+828,Customer_828,Female,1988-04-06,New York,USA
+829,Customer_829,Female,1979-09-07,Chicago,USA
+830,Customer_830,Female,1981-12-12,Houston,USA
+831,Customer_831,Female,1974-09-08,Los Angeles,USA
+832,Customer_832,Female,1992-03-21,Los Angeles,USA
+833,Customer_833,Female,1961-04-03,Houston,USA
+834,Customer_834,Female,1985-11-12,New York,USA
+835,Customer_835,Female,1978-04-14,Los Angeles,USA
+836,Customer_836,Female,1999-01-15,Houston,USA
+837,Customer_837,Male,1999-07-14,Los Angeles,USA
+838,Customer_838,Male,1964-04-21,New York,USA
+839,Customer_839,Female,1960-04-11,New York,USA
+840,Customer_840,Female,1970-05-28,Houston,USA
+841,Customer_841,Male,1969-03-21,Chicago,USA
+842,Customer_842,Female,1990-04-03,Los Angeles,USA
+843,Customer_843,Female,1965-05-18,Los Angeles,USA
+844,Customer_844,Male,1960-12-12,Los Angeles,USA
+845,Customer_845,Male,1963-10-02,Chicago,USA
+846,Customer_846,Female,1970-11-03,Los Angeles,USA
+847,Customer_847,Female,1984-01-20,Los Angeles,USA
+848,Customer_848,Male,1970-02-21,Los Angeles,USA
+849,Customer_849,Female,1987-09-28,Los Angeles,USA
+850,Customer_850,Male,1975-03-19,Phoenix,USA
+851,Customer_851,Female,1974-09-28,New York,USA
+852,Customer_852,Female,1975-10-08,New York,USA
+853,Customer_853,Female,1960-12-06,Chicago,USA
+854,Customer_854,Male,1981-02-20,Houston,USA
+855,Customer_855,Male,1999-04-13,New York,USA
+856,Customer_856,Female,1994-10-19,Phoenix,USA
+857,Customer_857,Male,1993-09-25,Phoenix,USA
+858,Customer_858,Female,1964-05-16,Houston,USA
+859,Customer_859,Male,1997-08-13,Los Angeles,USA
+860,Customer_860,Male,1988-05-09,Los Angeles,USA
+861,Customer_861,Female,1967-04-21,Phoenix,USA
+862,Customer_862,Male,1960-10-01,Houston,USA
+863,Customer_863,Male,1984-12-20,Phoenix,USA
+864,Customer_864,Male,1961-02-19,Phoenix,USA
+865,Customer_865,Female,1982-11-08,Houston,USA
+866,Customer_866,Female,1979-08-24,Houston,USA
+867,Customer_867,Male,1986-02-20,Phoenix,USA
+868,Customer_868,Male,1971-02-11,New York,USA
+869,Customer_869,Female,1969-03-14,New York,USA
+870,Customer_870,Female,1982-03-09,Chicago,USA
+871,Customer_871,Female,1976-12-04,Chicago,USA
+872,Customer_872,Female,1997-08-12,New York,USA
+873,Customer_873,Male,1986-11-18,Los Angeles,USA
+874,Customer_874,Male,1985-07-03,New York,USA
+875,Customer_875,Male,1979-05-20,New York,USA
+876,Customer_876,Male,1988-03-09,Phoenix,USA
+877,Customer_877,Male,1960-09-10,Los Angeles,USA
+878,Customer_878,Male,1979-07-09,Chicago,USA
+879,Customer_879,Female,1985-06-23,Chicago,USA
+880,Customer_880,Female,1961-04-27,Los Angeles,USA
+881,Customer_881,Female,1992-05-14,New York,USA
+882,Customer_882,Male,1989-06-14,Houston,USA
+883,Customer_883,Male,1991-04-27,Houston,USA
+884,Customer_884,Male,1972-09-13,New York,USA
+885,Customer_885,Male,1995-07-08,Houston,USA
+886,Customer_886,Female,1999-04-02,Houston,USA
+887,Customer_887,Female,1970-03-05,Chicago,USA
+888,Customer_888,Male,1988-09-23,Chicago,USA
+889,Customer_889,Male,1963-07-11,Houston,USA
+890,Customer_890,Male,1997-10-18,Phoenix,USA
+891,Customer_891,Female,1991-03-10,Phoenix,USA
+892,Customer_892,Male,1995-11-22,Los Angeles,USA
+893,Customer_893,Male,1994-04-26,New York,USA
+894,Customer_894,Male,1969-04-07,New York,USA
+895,Customer_895,Male,1973-01-26,Los Angeles,USA
+896,Customer_896,Female,1981-03-15,Chicago,USA
+897,Customer_897,Female,1980-05-02,New York,USA
+898,Customer_898,Female,1979-06-05,Phoenix,USA
+899,Customer_899,Female,1998-11-27,Houston,USA
+900,Customer_900,Female,1997-09-01,Houston,USA
+901,Customer_901,Female,1979-02-28,Phoenix,USA
+902,Customer_902,Female,1985-09-10,Houston,USA
+903,Customer_903,Female,1995-09-19,Phoenix,USA
+904,Customer_904,Male,1962-01-06,Los Angeles,USA
+905,Customer_905,Male,1997-01-25,New York,USA
+906,Customer_906,Male,1994-11-17,Houston,USA
+907,Customer_907,Male,1985-07-27,Los Angeles,USA
+908,Customer_908,Male,1964-05-05,New York,USA
+909,Customer_909,Male,1972-11-28,Los Angeles,USA
+910,Customer_910,Male,1982-12-18,Houston,USA
+911,Customer_911,Female,1989-11-12,Chicago,USA
+912,Customer_912,Female,1995-08-12,Houston,USA
+913,Customer_913,Female,1978-05-22,Los Angeles,USA
+914,Customer_914,Female,1995-10-05,Houston,USA
+915,Customer_915,Male,1969-06-22,Los Angeles,USA
+916,Customer_916,Female,1993-06-25,Chicago,USA
+917,Customer_917,Male,1983-12-12,New York,USA
+918,Customer_918,Female,1978-01-05,Houston,USA
+919,Customer_919,Male,1972-09-23,Chicago,USA
+920,Customer_920,Female,1961-10-27,Houston,USA
+921,Customer_921,Female,1980-03-19,Houston,USA
+922,Customer_922,Female,1981-06-03,New York,USA
+923,Customer_923,Male,1995-01-03,Chicago,USA
+924,Customer_924,Male,1969-01-07,Los Angeles,USA
+925,Customer_925,Female,1996-03-25,Houston,USA
+926,Customer_926,Female,1972-11-02,Chicago,USA
+927,Customer_927,Male,1962-10-25,Houston,USA
+928,Customer_928,Female,1989-02-13,Chicago,USA
+929,Customer_929,Female,1977-07-23,New York,USA
+930,Customer_930,Male,1962-12-20,Los Angeles,USA
+931,Customer_931,Female,1982-01-16,Los Angeles,USA
+932,Customer_932,Male,1992-11-10,Phoenix,USA
+933,Customer_933,Female,1972-12-05,Phoenix,USA
+934,Customer_934,Male,1965-10-13,Houston,USA
+935,Customer_935,Male,1981-12-09,Chicago,USA
+936,Customer_936,Female,1997-03-08,Chicago,USA
+937,Customer_937,Female,1987-11-27,Phoenix,USA
+938,Customer_938,Male,1983-09-02,Chicago,USA
+939,Customer_939,Female,1973-06-02,New York,USA
+940,Customer_940,Female,1963-01-10,New York,USA
+941,Customer_941,Male,1990-04-17,Chicago,USA
+942,Customer_942,Female,1986-02-18,Phoenix,USA
+943,Customer_943,Male,1999-03-07,Houston,USA
+944,Customer_944,Female,1979-10-18,Phoenix,USA
+945,Customer_945,Male,1979-06-16,Los Angeles,USA
+946,Customer_946,Female,1999-04-14,Los Angeles,USA
+947,Customer_947,Male,1984-07-23,Phoenix,USA
+948,Customer_948,Male,1965-03-19,Los Angeles,USA
+949,Customer_949,Female,1969-09-14,Houston,USA
+950,Customer_950,Female,1964-12-25,Phoenix,USA
+951,Customer_951,Female,1975-11-26,Phoenix,USA
+952,Customer_952,Female,1966-01-24,Chicago,USA
+953,Customer_953,Male,1996-08-21,Los Angeles,USA
+954,Customer_954,Female,1965-10-16,New York,USA
+955,Customer_955,Male,1966-02-24,Houston,USA
+956,Customer_956,Male,1991-07-22,Los Angeles,USA
+957,Customer_957,Female,1984-01-27,Houston,USA
+958,Customer_958,Female,1985-02-11,Los Angeles,USA
+959,Customer_959,Female,1973-02-09,New York,USA
+960,Customer_960,Female,1984-02-13,Phoenix,USA
+961,Customer_961,Female,1996-04-19,Los Angeles,USA
+962,Customer_962,Male,1961-07-22,New York,USA
+963,Customer_963,Female,1987-04-25,Los Angeles,USA
+964,Customer_964,Female,1967-05-22,Phoenix,USA
+965,Customer_965,Male,1999-11-19,Houston,USA
+966,Customer_966,Female,1965-05-15,Houston,USA
+967,Customer_967,Male,1988-12-15,Los Angeles,USA
+968,Customer_968,Female,1995-07-10,Phoenix,USA
+969,Customer_969,Female,1981-10-18,Phoenix,USA
+970,Customer_970,Female,1981-08-23,Chicago,USA
+971,Customer_971,Female,1980-11-08,Los Angeles,USA
+972,Customer_972,Male,1995-03-10,Los Angeles,USA
+973,Customer_973,Female,1983-12-02,New York,USA
+974,Customer_974,Male,1967-11-20,Chicago,USA
+975,Customer_975,Male,1997-08-12,Los Angeles,USA
+976,Customer_976,Male,1979-12-24,Los Angeles,USA
+977,Customer_977,Male,1973-03-24,Phoenix,USA
+978,Customer_978,Female,1983-07-13,Chicago,USA
+979,Customer_979,Female,1963-10-14,Los Angeles,USA
+980,Customer_980,Female,1963-03-10,Los Angeles,USA
+981,Customer_981,Female,1999-03-06,Houston,USA
+982,Customer_982,Female,1992-07-26,Phoenix,USA
+983,Customer_983,Female,1988-06-07,Los Angeles,USA
+984,Customer_984,Female,1975-05-17,Los Angeles,USA
+985,Customer_985,Female,1976-01-05,Phoenix,USA
+986,Customer_986,Female,1965-11-07,Los Angeles,USA
+987,Customer_987,Female,1983-05-09,Los Angeles,USA
+988,Customer_988,Female,1981-09-01,New York,USA
+989,Customer_989,Male,1960-04-08,Houston,USA
+990,Customer_990,Female,1967-03-23,Chicago,USA
+991,Customer_991,Female,1986-07-07,Phoenix,USA
+992,Customer_992,Male,1966-09-21,Chicago,USA
+993,Customer_993,Male,1971-01-26,Los Angeles,USA
+994,Customer_994,Female,1980-11-27,Chicago,USA
+995,Customer_995,Male,1988-03-01,Los Angeles,USA
+996,Customer_996,Female,1988-10-22,Houston,USA
+997,Customer_997,Female,1982-06-28,Phoenix,USA
+998,Customer_998,Male,1964-06-22,Los Angeles,USA
+999,Customer_999,Male,1972-10-07,New York,USA
+1000,Customer_1000,Female,1965-10-07,Phoenix,USA
